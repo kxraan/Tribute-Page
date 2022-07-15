@@ -1,0 +1,27 @@
+img{
+max-width: 100%;
+display: block;
+height: auto;
+margin: 0 auto;
+}
+main{
+  background-color:#eee;
+  border-radius:0.5rem;
+}
+figure{
+  background-color:#ffffff;
+  padding:1em;
+}
+div{
+  text-align:center;
+  padding:0.25em;
+  padding-bottom:0;
+}
+#footer{
+  margin:0 1.5em;
+  padding-bottom:1em;
+}
+#tribute-link{
+  cursor:pointer;
+  color:#000000;
+}
